@@ -49,15 +49,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-05 04:07:11</sys_created_on>
-        <sys_id>9fefa5e6dbc713007981fe1b68961963</sys_id>
+        <sys_id>1a7ffe84db2023007981fe1b6896193e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>User input</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_dictionary_x_58872_needit_needit_import_rest_u_user_input</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-05 04:07:11</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-10 05:04:15</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
